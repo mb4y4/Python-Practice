@@ -1,3 +1,12 @@
+
+# For this assignment, load in your sys.argv like so:
+# duck_goose = sys.argv[1:]
+# The above duck_goose a list-type variable which contains lower-cased
+# words, either 'duck' or 'goose' (ex. [ 'duck', 'duck', 'goose']).
+
+# ● Create a program, duckgoose.py which removes all the ‘goose’ within the list
+# then print the remaining list.
+
 import sys
 
 # Load variable from command-line argument

@@ -1,3 +1,13 @@
+
+# Create a program called arrayargs.py that has a function that takes four integer
+# arguments. Those arguments should be put into an Numpy array.
+# ● The function will have two print statements.
+# ○ The first will print the type of the array you create (which should be <class
+# ‘numpy.ndarray’>).
+# ■ For this, DO NOT just do print(“<class ‘numpy.ndarray’>”)
+# ○ The second will print the multiplication of the four items in your array.
+
+
 import numpy as np
 import sys
 

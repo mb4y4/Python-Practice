@@ -1,3 +1,14 @@
+
+# For this assignment, load in your sys.argv like so:
+# duplicated_words = sys.argv[1:]
+# The above duplicated_words is a list-type variable which contains a whole
+# bunch of lower-cased words (ex. ['hello', 'world', 'welcome', 'hello', 'again']).
+
+# ● Create a program, duplicates.py. It should:
+# a. Remove all duplicate words from the list
+# b. Then print it in descending order of alphabets (from Z to A).
+
+
 import sys
 
 # Load variable from command-line argument

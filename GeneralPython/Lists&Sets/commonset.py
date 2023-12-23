@@ -1,3 +1,15 @@
+
+# For this assignment, load in your variables like this:
+# set_a = sys.argv[1:]
+# set_b = ['apple', 'banana', 'mango', 'orange']
+# b. The above set_a is a list-type variable which contains words.
+# c. Your order may be different for the examples below because sets are
+# unordered.
+
+# ● Create a program, commonset.py. Your program should:
+# a. Find the common words between set_a and set_b.
+# b. Print the output in a set format.
+
 import sys
 
 # Load variables from command-line arguments

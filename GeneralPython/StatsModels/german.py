@@ -1,3 +1,14 @@
+
+# Use the german_credit_data.csv file to complete the following assignment.
+# Create a file, german.py, that loads the .csv file and runs a regression predicting
+# credit amount from age and duration, in that order. Add a constant using
+# sm.add_constant(data).
+# ● You will need to rename the column 'Credit amount' to 'Credit_amount'.
+# ● Then, print the parameters and R-squared to 2 decimals using
+# print(model.params.round(2))
+# print(model.rsquared.round(2))
+
+
 #pip install statsmodels pandas
 import pandas as pd
 import statsmodels.api as sm

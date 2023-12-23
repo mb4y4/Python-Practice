@@ -1,3 +1,15 @@
+
+# gpa_dict = {'A':4.0, 'A-':3.66, 'B+':3.33, 'B':3.0, 'B-':2.66, 'C+':2.33, 'C':2.0,
+# 'C-':1.66, 'D+':1.33, 'D':1.00, 'D-':.66, 'F':0.00}
+
+# ● Create a program that takes four letter grade arguments and prints
+# out the corresponding GPA, to two decimals. Your program should work both in
+# arguments are upper-case and lower-case.
+
+# ● Your program should print in the form:
+# “My GPA is x”
+# Where x = GPA calculation
+
 def calculate_gpa(grade1, grade2, grade3, grade4):
     # The given GPA dictionary
     gpa_dict = {'A': 4.0, 'A-': 3.66, 'B+': 3.33, 'B': 3.0, 'B-': 2.66,

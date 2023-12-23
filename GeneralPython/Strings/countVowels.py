@@ -1,3 +1,9 @@
+
+# ● Create a program called countVowels.py that has a function that takes in a string
+# then prints the number of unique vowels in the string (regardless of it being upper
+# or lower case).
+
+
 def count_unique_vowels(input_string):
     # Convert the input string to lowercase to make the comparison case-insensitive
     input_string = input_string.lower()

@@ -1,3 +1,9 @@
+
+# Create a program, counter.py. You are given a single string argument. Print a
+# dictionary where the keys are composed of each letter from a word and values
+# are the sum of each letters’ appearances. The key order should be in the order of
+# the letters’ appearances.
+
 import sys
 
 # Load variable from command-line argument

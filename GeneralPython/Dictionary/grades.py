@@ -1,3 +1,11 @@
+
+# grades = {'Biology':80, 'Physics':88, 'Chemistry':98, 'Math':89, 'English':79,
+# 'Music':67, 'History':68, 'Art':53, 'Economics':95, 'Psychology':88}
+
+# ● Create a program that takes an argument (subject) and prints the
+# average score excluding that subject, to two decimals.
+
+
 def calculate_average(subject_to_exclude):
     # The given grades dictionary
     grades = {'Biology': 80, 'Physics': 88, 'Chemistry': 98, 'Math': 89, 'English': 79,
